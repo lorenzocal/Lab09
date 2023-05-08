@@ -5,8 +5,7 @@ public class TestModel {
 	public static void main(String[] args) {
 
 		Model model = new Model();
-
-		System.out.println("TestModel -- TODO");
+		model.creaGrafo(1890);
 		
 //		System.out.println("Creo il grafo relativo al 2000");
 //		model.createGraph(2000);
